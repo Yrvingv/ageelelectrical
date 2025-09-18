@@ -1,0 +1,18 @@
+REPOSITORIO
+https://github.com/Yrvingv/ageelelectrical.git
+
+
+ENLACE A LA PAGINA YA CONSTITUIDA:
+https://yrvingv.github.io/ageelelectrical/
+
+
+Considerando el archivo adjunto... que es una guia que hemos elaborado juntos para hacer deployment de páginas elaboradas en react.... Hagamos deploy para github los datos del repo son:
+
+REPOSITORIO
+https://github.com/Yrvingv/ageelelectrical.git
+
+
+
+ENLACE A LA PAGINA YA CONSTITUIDA SERÁ: 
+https://yrvingv.github.io/ageelelectrical/
+ya tengo creada la carpeta del archivo yml pero pudieramos confirmar su contenido para que no haya confusiones.
