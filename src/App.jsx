@@ -5,9 +5,9 @@ import React from 'react'
  *  ========================= */
 const siteData = {
   empresa: "ageelprojects",
-  producto: "Reparaciones e instalaciones eléctricas para escuelas y edificios",
+  producto: "Reparaciones e instalaciones eléctricas para escuelas, comercios y edificios",
   nicho:
-    "Reparaciones e instalaciones eléctricas para escuelas y edificios (Tucumán y alrededores), con foco en continuidad operativa, adecuación normativa (PAT, pararrayos, selectividad), iluminación LED, respaldo (UPS/ATS) y mantenimiento preventivo.",
+    "Reparaciones e instalaciones eléctricas para escuelas, comercios y edificios (Tucumán y alrededores), con foco en continuidad operativa, adecuación normativa (PAT, pararrayos, selectividad), iluminación LED, respaldo (UPS/ATS) y mantenimiento preventivo.",
   clienteIdeal:
     "Decisor: Director/a, apoderado legal o administrador de edificios con poder de compra. Dolor: instalaciones antiguas/obsoletas, microcortes, tableros que disparan, falta de PAT/pararrayos, luminarias ineficientes. Urgencia: clases interrumpidas, quejas de padres/usuarios, inspecciones/regulaciones. Valoran ejecución fuera del horario escolar, garantía y documentación/certificados.",
   dolores: [
