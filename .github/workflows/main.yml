@@ -1,16 +1,18 @@
-# .github/workflows/main.yml
 name: Deploy site to GitHub Pages
 on:
   push:
     branches: [ "main" ]
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: true
+
 jobs:
   deploy:
     environment:
@@ -25,7 +27,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'   # tu index.html está en la raíz del repo
+          path: '.'   # tu index.html está en la raíz
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
